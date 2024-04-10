@@ -28,5 +28,3 @@ mongoose.connect(process.env.MONGODB_URI).then(() => {
 
     client.login(process.env.TOKEN);
 })
-process.env.MONGODB_URI
-process.env.TOKEN
