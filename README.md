@@ -15,18 +15,18 @@ Command: /notification-remove [youtube-id] [channel]
 ### Welcome Messages
 
 Command: /setup-welcome-channel [channel] [custom-message]
-Description: Configures the bot to send a welcome message to new members joining the server.
+ - Configures the bot to send a welcome message to new members joining the server.
 Command: /remove-welcome-channel [channel]
-Description: Cancels the welcome message for the specified channel.
+ - Cancels the welcome message for the specified channel.
 
 ### Auto Role Assignment
 
 Command: /auto-role [role]
-Description: Assigns a specified role to new members automatically.
+ - Assigns a specified role to new members automatically.
 Command: /autorole-disable
-Description: Disables automatic role assignment for new members.
+ - Disables automatic role assignment for new members.
 
 ### Q&A Submission
 
 Command: /qna [question]
-Description: Sends a question directly to be displayed on a website, showing the questioner, time of submission, and the question for organized and systematic inquiry responses.
+ - Sends a question directly to be displayed on a website, showing the questioner, time of submission, and the question for organized and systematic inquiry responses.
